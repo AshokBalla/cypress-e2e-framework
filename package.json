@@ -1,0 +1,17 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cypress automation framework with reusable commands, fixtures, and CI workflows.",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test tests/**/*.test.cjs",
+    "test:e2e": "cypress run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^14.0.0",
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.0"
+  }
+}
