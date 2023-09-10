@@ -1,0 +1,162 @@
+# Maintenance Log
+
+- Initial framework setup for cypress-automation
+- Add baseline documentation and repository hygiene for cypress-automation
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
+- test(cypress-automation): add smoke coverage for standard user authentication
+- test(cypress-automation): expand regression suite for locked user authentication
+- feat(cypress-automation): add reusable workflow support for employee create flow
+- docs(cypress-automation): document execution behavior for employee update flow
+- chore(cypress-automation): extend environment controls for employee delete flow
+- ci(cypress-automation): publish diagnostics for leave request approval path
+- refactor(cypress-automation): refresh reusable data for API contract validation
+- chore(cypress-automation): record maintenance update for pagination and filter state
