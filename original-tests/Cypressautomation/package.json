@@ -1,0 +1,51 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "setup:reports": "node setup-cucumber-report.js",
+    "cucumber": "npm run setup:reports && npx cypress run --e2e --spec \"cypress/e2e/features/*.feature\"",
+    "cucumber:smoke": "npm run setup:reports && npx cypress run --e2e --env TAGS=\"@Smoke\" --spec \"cypress/e2e/features/*.feature\"",
+    "cucumber:regression": "npm run setup:reports && npx cypress run --e2e --env TAGS=\"@Regression\" --spec \"cypress/e2e/features/*.feature\"",
+    "cucumber:all-tags": "npm run setup:reports && npx cypress run --e2e --env TAGS=\"@Smoke or @Regression\" --spec \"cypress/e2e/features/*.feature\"",
+    "report:cucumber": "node cypress-html-report.js",
+    "report:dashboard": "node combined-report.js",
+    "open:dashboard": "node open-dashboard.js",
+    "test:e2e:report": "npm run cucumber && npm run report:cucumber && npm run report:dashboard",
+    "test:smoke:report": "npm run cucumber:smoke && npm run report:cucumber && npm run report:dashboard",
+    "test:regression:report": "npm run cucumber:regression && npm run report:cucumber && npm run report:dashboard",
+    "test:all": "npm run test:e2e:report && npm run open:dashboard"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.27.1",
+    "@babel/preset-env": "^7.27.1",
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
+    "@cypress/webpack-preprocessor": "^6.0.4",
+    "babel-loader": "^10.0.0",
+    "cypress": "^14.3.2",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "multiple-cucumber-html-reporter": "^3.9.2",
+    "webpack": "^5.99.7"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "stepDefinitions": [
+      "cypress/e2e/features/step_definitions/**/*.js"
+    ],
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "cypress/cucumber-json",
+      "filePrefix": "",
+      "fileSuffix": ".cucumber"
+    }
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

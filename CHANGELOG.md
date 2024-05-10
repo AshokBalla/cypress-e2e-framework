@@ -1,0 +1,23 @@
+# Changelog
+
+- Initial framework bootstrap.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.
+- Improved support for pagination and filter state.

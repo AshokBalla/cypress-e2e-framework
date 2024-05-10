@@ -1,0 +1,54 @@
+name: cypress-ci
+on:
+  push:
+    branches: [main, develop]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: echo "Install dependencies"
+      - name: Run validation suite
+        run: echo "Run validation suite"
+      - name: Archive reports
+        run: echo "Archive reports"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
+      - name: Publish diagnostics for leave request approval path
+        run: echo "Publish diagnostics for leave request approval path"
