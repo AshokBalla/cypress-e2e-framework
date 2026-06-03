@@ -21,3 +21,4 @@ __pycache__/
 cypress/videos/
 cypress/screenshots/
 reports/
+target/
